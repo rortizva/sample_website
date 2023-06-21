@@ -7,7 +7,7 @@
 </table>
 
 This another regular paragraph for the end.
-=
+-
 
 With that being said, I'm going to close this out with a line from my favorite poem:
 
